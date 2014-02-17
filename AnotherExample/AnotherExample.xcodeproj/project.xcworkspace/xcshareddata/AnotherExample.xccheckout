@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>94073C99-AEC7-42C4-9867-5F3C0D5E15A4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AnotherExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6B0D51F9-7960-44D4-B698-267DC0D17DE8</key>
+		<string>https://github.com/sci-burns/oursandbar</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AnotherExample/AnotherExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6B0D51F9-7960-44D4-B698-267DC0D17DE8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sci-burns/oursandbar</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6B0D51F9-7960-44D4-B698-267DC0D17DE8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6B0D51F9-7960-44D4-B698-267DC0D17DE8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>oursandbar</string>
+		</dict>
+	</array>
+</dict>
+</plist>
